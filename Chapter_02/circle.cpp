@@ -4,7 +4,7 @@
 
 // Where pi = 3.14.
 
-import st;
+import std;
 
 int main()
 {
